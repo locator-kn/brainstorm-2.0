@@ -4,7 +4,7 @@
 Dummy Payload:
 ```
 {
-	"mail": "hen",
+	"mail": "hen@egg.de",
 	"password": "egg",
 }
 ```
